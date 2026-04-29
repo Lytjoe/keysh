@@ -4,7 +4,7 @@ set -eu
 # Down           -> volume down
 # Up 300ms       -> next track        (Mode Skip) 
 # Down 300ms     -> previous track    (Mode Skip)
-# Up 300ms       -> pause track       (Mode Flash/Pause) 
+# Up 300ms       -> play/pause        (Mode Flash/Pause) 
 # Down 300ms     -> toggle flashlight (Mode Flash/Pause)
 # Up/Down 1300ms -> toggle between modes (Skip and Flash/Pause)
 
